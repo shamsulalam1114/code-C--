@@ -1,0 +1,7 @@
+C:\Users\shams\source\repos\area\obj\Debug\area.csproj.AssemblyReference.cache
+C:\Users\shams\source\repos\area\obj\Debug\area.csproj.CoreCompileInputs.cache
+C:\Users\shams\source\repos\area\bin\Debug\area.exe.config
+C:\Users\shams\source\repos\area\bin\Debug\area.exe
+C:\Users\shams\source\repos\area\bin\Debug\area.pdb
+C:\Users\shams\source\repos\area\obj\Debug\area.exe
+C:\Users\shams\source\repos\area\obj\Debug\area.pdb

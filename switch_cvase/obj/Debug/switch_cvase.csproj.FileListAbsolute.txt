@@ -1,0 +1,7 @@
+C:\Users\shams\source\repos\switch_cvase\obj\Debug\switch_cvase.csproj.AssemblyReference.cache
+C:\Users\shams\source\repos\switch_cvase\obj\Debug\switch_cvase.csproj.CoreCompileInputs.cache
+C:\Users\shams\source\repos\switch_cvase\bin\Debug\switch_cvase.exe.config
+C:\Users\shams\source\repos\switch_cvase\bin\Debug\switch_cvase.exe
+C:\Users\shams\source\repos\switch_cvase\bin\Debug\switch_cvase.pdb
+C:\Users\shams\source\repos\switch_cvase\obj\Debug\switch_cvase.exe
+C:\Users\shams\source\repos\switch_cvase\obj\Debug\switch_cvase.pdb
